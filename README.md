@@ -26,7 +26,7 @@ Explore um ambiente intuitivo e detalhado, dedicado à gestão de orçamento, pr
 
 #### Capturas de Tela
 <p align="LEFT">
-  <img src="https://github.com/Eduardoppereira/PBI_VENDAS_2/blob/main/Apresenta%C3%A7%C3%A3o12.png" width=80%>
+  <img src="https://github.com/Eduardoppereira/PBI_ORCAMENTO/blob/main/Captura%20de%20tela%202023-12-18%20160756.png" width=80%>
 </p>
 
 
